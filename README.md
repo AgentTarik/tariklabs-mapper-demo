@@ -14,7 +14,7 @@ A REST API demonstrating the [tariklabs/mapper](https://github.com/tariklabs/map
 | `WithIgnoreZeroSource()` | Skips zero-value fields (useful for partial updates)      |
 | `WithMaxDepth()`         | Sets maximum nesting depth for recursive mapping          |
 | `MappingError`           | Structured error handling with field path info            |
-| Nested structs           | Recursive mapping of complex objects                      |
+| `Nested structs`           | Recursive mapping of complex objects                    |
 
 ## Project Structure
 
